@@ -2,6 +2,8 @@
 
 **Type:** Team incident investigation (4 people) · **Tools:** Wireshark, Python, pandas
 
+📄 **[Read the full incident report →](REPORT.md)** It covers the executive summary, timeline, MITRE ATT&CK mapping, impact, recommendations and IOCs.
+
 ## Summary
 
 We were given a 62-hour packet capture (**1,437,980 packets**, July 25–28, 2015) from a single Windows endpoint and asked to find out what happened to it.
