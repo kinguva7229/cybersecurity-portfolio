@@ -25,6 +25,10 @@ Each folder is a self-contained case study: the problem, the tools and method, t
 
 Packet captures are **not** included in this repo because they contain live malware samples. Malicious domains, URLs and IPs in the write-ups are defanged (`hxxp://`, `example[.]com`) so they can't be clicked by accident.
 
-## Academic note
+## Academic note and how this was made
 
-This is coursework. Project 01 was a team effort, and each teammate's contribution is credited in that project's README. Projects 02–04 were individual labs. The write-ups describe our methods and findings. Course-provided starter code and assignment text are not reproduced here.
+This is coursework. Project 01 was a team effort, and each teammate's contribution is credited in that project's README. Projects 02–04 were individual labs.
+
+- **The work:** the analysis, code and results were done by me, and for project 01 by my team, following the course instructions and the instructor's sample code.
+- **This portfolio:** the READMEs and incident reports were written afterward with help from an AI assistant (Claude). They are based on our original submissions and add no new findings.
+- **Not included:** course-provided starter code and assignment text.
