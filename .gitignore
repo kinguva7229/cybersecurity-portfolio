@@ -1,0 +1,8 @@
+# Packet captures can contain live malware: never commit them
+*.pcap
+*.pcapng
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
